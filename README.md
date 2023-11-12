@@ -11,6 +11,9 @@ Project is only for Haui students
 ## Setup
 ### Prerequisites
 - Python
+- Account HAUI student
+  - Username: HAUI student code
+  - Password
 ### How to run
     git clone https://github.com/tmph2003/Crawl-Score-HAUI-IT-Students.git
     ./start.bat
